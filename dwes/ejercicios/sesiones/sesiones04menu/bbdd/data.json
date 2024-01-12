@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Alejandro",
+        "apellidos": "Canovas Garcia",
+        "email": "ps4andalex@gmail.com",
+        "password": "1234",
+        "imagen": "default.png"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellidos": "Canovas Garcia",
+        "email": "AlexCG",
+        "password": "Admin4321",
+        "imagen": "default.png"
+    },
+    {
+        "nombre": "Marc",
+        "apellidos": "Antonerlo",
+        "email": "bruh@gmail.com",
+        "password": "1234",
+        "imagen": "default.png"
+    },
+    {
+        "nombre": "Joan",
+        "apellidos": "Aranda",
+        "email": "joar@kk.com",
+        "password": "1234",
+        "imagen": "default.png"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellidos": "Canovas Garcia",
+        "email": "ps4andalex@gmail.com",
+        "password": "1234",
+        "imagen": "default.png"
+    },
+    {
+        "nombre": "Fra",
+        "apellidos": "Cu",
+        "email": "fracu@gmail.com",
+        "password": "1234",
+        "imagen": "default.png"
+    }
+]
