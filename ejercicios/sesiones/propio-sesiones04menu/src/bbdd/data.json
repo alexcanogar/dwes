@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Alex",
+        "surname": "Hola",
+        "mail": "1",
+        "password": "1234",
+        "picture": "Screenshot_1.png"
+    },
+    {
+        "name": "ps4andalex@gmail.com",
+        "surname": "Canovas",
+        "mail": "1234",
+        "password": "1234",
+        "picture": "Screenshot_1.png"
+    },
+    {
+        "name": "Pepito",
+        "surname": "Grillo",
+        "mail": "pepigri@gmail.com",
+        "password": "12345",
+        "picture": "waaah.mov"
+    }
+]
